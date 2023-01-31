@@ -16,7 +16,8 @@ const port = 5891;
 
 // TODO: resolve TypeScript anys in this file
 // TODO: move /public/images/uploadedFiles/general upward out of uploadedFiles
-const staticDirectory = path.join(__dirname, './public');
+const staticDirectory = path.join(__dirname, '../public');
+console.log(staticDirectory);
 app.use(express.static(staticDirectory));
 
 const storage = multer.diskStorage({
