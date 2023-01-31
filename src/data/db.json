@@ -1,0 +1,39 @@
+{
+	"fileItems": [
+		{
+			"title": "dfgdfgdf",
+			"description": "",
+			"notes": "",
+			"fileName": "scores.xlsx",
+			"iconPathAndFileName": "uploadedFiles/general/iconExcel.png"
+		},
+		{
+			"title": "asdasd",
+			"description": "",
+			"notes": "",
+			"fileName": "orangebox.png",
+			"iconPathAndFileName": "uploadedFiles/orangebox.png"
+		},
+		{
+			"title": "werew",
+			"description": "",
+			"notes": "",
+			"fileName": "screenshot.jpg",
+			"iconPathAndFileName": "uploadedFiles/screenshot.jpg"
+		},
+		{
+			"title": "dsfsdfd",
+			"description": "",
+			"notes": "",
+			"fileName": "orangebox.png",
+			"iconPathAndFileName": "uploadedFiles/orangebox.png"
+		},
+		{
+			"title": "json",
+			"description": "",
+			"notes": "",
+			"fileName": "test.json",
+			"iconPathAndFileName": "uploadedFiles/general/iconJson.png"
+		}
+	]
+}
